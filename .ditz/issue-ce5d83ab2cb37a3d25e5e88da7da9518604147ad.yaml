@@ -1,0 +1,18 @@
+--- !ditz.rubyforge.org,2008-03-06/issue 
+title: Eat dogfood
+desc: Transition the projects bug tracking from ditz to ritz.
+type: :task
+component: Ritz
+release: v2.0.0
+reporter: Matias Eyzaguirre <matias@fortlogic.net>
+status: :unstarted
+disposition: 
+creation_time: 2014-10-11 23:56:38.426059 Z
+references: []
+
+id: ce5d83ab2cb37a3d25e5e88da7da9518604147ad
+log_events: 
+- - 2014-10-11 23:56:38.427703 Z
+  - Matias Eyzaguirre <matias@fortlogic.net>
+  - created
+  - ""
