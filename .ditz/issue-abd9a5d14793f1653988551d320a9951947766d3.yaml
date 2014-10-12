@@ -1,0 +1,24 @@
+--- !ditz.rubyforge.org,2008-03-06/issue 
+title: Verify issue store command
+desc: |-
+  Create a command users can invoke that verifies the integrity / stability /
+  soundness of the issue storage without making any modifications, optimizations
+  or repairs.
+type: :feature
+component: Storage
+release: v1.0.0
+reporter: Matias Eyzaguirre <matias@fortlogic.net>
+status: :unstarted
+disposition: 
+creation_time: 2014-10-12 17:17:51.980613 Z
+references: []
+
+id: abd9a5d14793f1653988551d320a9951947766d3
+log_events: 
+- - 2014-10-12 17:17:51.982254 Z
+  - Matias Eyzaguirre <matias@fortlogic.net>
+  - created
+  - ""
+git_branch: 
+labels: []
+

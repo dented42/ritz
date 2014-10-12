@@ -1,0 +1,25 @@
+--- !ditz.rubyforge.org,2008-03-06/issue 
+title: Repair issue store command
+desc: |-
+  Create a command that users can invoke that repairs a damaged issue store. They
+  should either be able to specify what needs to be repaired (that is, what
+  repairs should be carried out), or the command should be able to try and
+  determine what work needs to be done to make the issue store consistent.
+type: :feature
+component: Storage
+release: v1.0.0
+reporter: Matias Eyzaguirre <matias@fortlogic.net>
+status: :unstarted
+disposition: 
+creation_time: 2014-10-12 17:22:02.115258 Z
+references: []
+
+id: 45c978e7f87b0534133541b7d8eb30b2c7323913
+log_events: 
+- - 2014-10-12 17:22:02.115754 Z
+  - Matias Eyzaguirre <matias@fortlogic.net>
+  - created
+  - ""
+git_branch: 
+labels: []
+
