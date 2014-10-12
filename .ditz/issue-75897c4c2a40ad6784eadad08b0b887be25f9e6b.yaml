@@ -1,0 +1,23 @@
+--- !ditz.rubyforge.org,2008-03-06/issue 
+title: Seperate public/private
+desc: |-
+  Seperate code that is meant to be shared internally between modules but /isn't/
+  meant to be used by outsiders into a ritz/private subdirectory.
+type: :task
+component: Ritz
+release: v1.0.0
+reporter: Matias Eyzaguirre <matias@fortlogic.net>
+status: :unstarted
+disposition: 
+creation_time: 2014-10-12 21:22:38.810814 Z
+references: []
+
+id: 75897c4c2a40ad6784eadad08b0b887be25f9e6b
+log_events: 
+- - 2014-10-12 21:22:38.812684 Z
+  - Matias Eyzaguirre <matias@fortlogic.net>
+  - created
+  - ""
+git_branch: 
+labels: []
+
