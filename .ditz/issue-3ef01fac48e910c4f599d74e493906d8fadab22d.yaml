@@ -1,0 +1,23 @@
+--- !ditz.rubyforge.org,2008-03-06/issue 
+title: Static HTML generation
+desc: |-
+  Allow users to generate a static html folder that contains a read only snapshot
+  of the web ui.
+type: :feature
+component: Web interface
+release: v1.0.0
+reporter: Matias Eyzaguirre <matias@fortlogic.net>
+status: :unstarted
+disposition: 
+creation_time: 2014-10-12 00:20:51.017033 Z
+references: []
+
+id: 3ef01fac48e910c4f599d74e493906d8fadab22d
+log_events: 
+- - 2014-10-12 00:20:51.017498 Z
+  - Matias Eyzaguirre <matias@fortlogic.net>
+  - created
+  - ""
+git_branch: 
+labels: []
+
