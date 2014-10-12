@@ -1,0 +1,23 @@
+--- !ditz.rubyforge.org,2008-03-06/issue 
+title: Allow migration from ditz to ritz
+desc: |-
+  Make a migration path that lets people translate their existing ditz projects
+  into ritz projects.
+type: :feature
+component: Ritz
+release: v2.0.0
+reporter: Matias Eyzaguirre <matias@fortlogic.net>
+status: :unstarted
+disposition: 
+creation_time: 2014-10-12 17:25:24.986759 Z
+references: []
+
+id: 7d1ad6aa00141e3f694a699a831eaacaa3da0f74
+log_events: 
+- - 2014-10-12 17:25:24.988421 Z
+  - Matias Eyzaguirre <matias@fortlogic.net>
+  - created
+  - ""
+git_branch: 
+labels: []
+
