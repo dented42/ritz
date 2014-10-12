@@ -1,0 +1,21 @@
+--- !ditz.rubyforge.org,2008-03-06/issue 
+title: Command line documentation
+desc: Write documentation for the command line interface.
+type: :task
+component: Documentation
+release: v1.0.0
+reporter: Matias Eyzaguirre <matias@fortlogic.net>
+status: :unstarted
+disposition: 
+creation_time: 2014-10-12 00:15:18.319839 Z
+references: []
+
+id: 77400afd00e54f36115ddf95d3fa8417690f0bde
+log_events: 
+- - 2014-10-12 00:15:18.322112 Z
+  - Matias Eyzaguirre <matias@fortlogic.net>
+  - created
+  - ""
+git_branch: 
+labels: []
+

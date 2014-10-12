@@ -1,0 +1,21 @@
+--- !ditz.rubyforge.org,2008-03-06/issue 
+title: Racket interface documentation
+desc: Create documentation for the library that lets users interact with ritz from within Racket.
+type: :task
+component: Documentation
+release: v1.0.0
+reporter: Matias Eyzaguirre <matias@fortlogic.net>
+status: :unstarted
+disposition: 
+creation_time: 2014-10-12 00:12:00.792906 Z
+references: []
+
+id: b3d40a68aa46084a4617d2bc4b8cd22f4af38d27
+log_events: 
+- - 2014-10-12 00:12:00.793360 Z
+  - Matias Eyzaguirre <matias@fortlogic.net>
+  - created
+  - ""
+git_branch: 
+labels: []
+

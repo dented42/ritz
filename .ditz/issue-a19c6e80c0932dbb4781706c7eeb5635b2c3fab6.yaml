@@ -1,0 +1,21 @@
+--- !ditz.rubyforge.org,2008-03-06/issue 
+title: ritz --help message
+desc: Write the message that 'ritz --help' prints out.
+type: :task
+component: Documentation
+release: v1.0.0
+reporter: Matias Eyzaguirre <matias@fortlogic.net>
+status: :unstarted
+disposition: 
+creation_time: 2014-10-12 00:13:39.971663 Z
+references: []
+
+id: a19c6e80c0932dbb4781706c7eeb5635b2c3fab6
+log_events: 
+- - 2014-10-12 00:13:39.972186 Z
+  - Matias Eyzaguirre <matias@fortlogic.net>
+  - created
+  - ""
+git_branch: 
+labels: []
+

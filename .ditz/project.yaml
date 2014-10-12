@@ -10,6 +10,10 @@ components:
   name: Web interface
 - !ditz.rubyforge.org,2008-03-06/component 
   name: Storage
+- !ditz.rubyforge.org,2008-03-06/component 
+  name: Documentation
+- !ditz.rubyforge.org,2008-03-06/component 
+  name: Racket interface
 releases: 
 - !ditz.rubyforge.org,2008-03-06/release 
   name: v1.0.0
@@ -30,3 +34,5 @@ releases:
     - created
     - The second major release.
 css: style.css
+labels: []
+

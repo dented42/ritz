@@ -1,0 +1,21 @@
+--- !ditz.rubyforge.org,2008-03-06/issue 
+title: manpage
+desc: Write the manpage for ritz.
+type: :task
+component: Documentation
+release: v1.0.0
+reporter: Matias Eyzaguirre <matias@fortlogic.net>
+status: :unstarted
+disposition: 
+creation_time: 2014-10-12 00:15:46.080543 Z
+references: []
+
+id: c9ffda6264bb3bc2000ce44528a436b9c990a391
+log_events: 
+- - 2014-10-12 00:15:46.080889 Z
+  - Matias Eyzaguirre <matias@fortlogic.net>
+  - created
+  - ""
+git_branch: 
+labels: []
+

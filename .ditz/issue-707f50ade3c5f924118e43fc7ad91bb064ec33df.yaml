@@ -1,0 +1,21 @@
+--- !ditz.rubyforge.org,2008-03-06/issue 
+title: Web interface documentation
+desc: Write the documentation for the web interface.
+type: :task
+component: Documentation
+release: v1.0.0
+reporter: Matias Eyzaguirre <matias@fortlogic.net>
+status: :unstarted
+disposition: 
+creation_time: 2014-10-12 00:17:06.525639 Z
+references: []
+
+id: 707f50ade3c5f924118e43fc7ad91bb064ec33df
+log_events: 
+- - 2014-10-12 00:17:06.526080 Z
+  - Matias Eyzaguirre <matias@fortlogic.net>
+  - created
+  - ""
+git_branch: 
+labels: []
+
