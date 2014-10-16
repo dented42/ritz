@@ -1,0 +1,23 @@
+--- !ditz.rubyforge.org,2008-03-06/issue 
+title: Filesystem based backing store
+desc: |-
+  Create a backing store instance that plugs into the generic UUID backing store,
+  and uses the filesystem.
+type: :feature
+component: Storage
+release: v1.0.0
+reporter: Matias Eyzaguirre <matias@fortlogic.net>
+status: :unstarted
+disposition: 
+creation_time: 2014-10-12 23:52:50.874605 Z
+references: []
+
+id: 5165296970f951fd43f2191352bdc7954b9ebedb
+log_events: 
+- - 2014-10-12 23:52:50.875037 Z
+  - Matias Eyzaguirre <matias@fortlogic.net>
+  - created
+  - ""
+git_branch: 
+labels: []
+

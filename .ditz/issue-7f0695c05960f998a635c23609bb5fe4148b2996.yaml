@@ -1,0 +1,35 @@
+--- !ditz.rubyforge.org,2008-03-06/issue 
+title: Make UUID boxes use weak boxes
+desc: |-
+  Currently the uuid-box type can only use custodian boxes to keep hold of their
+  contents. I would like for the current-uuid-store-custodian parameter to be able
+  to be #f (and have that be the default, now that I think about it), in which case
+  any uuid-boxes that are created will use weak boxes.
+  
+  The only reason why that isn't currently implemented is because typed racket
+  doesn't really support weak boxes at the moment, so this is being put off until
+  that is fixed.
+type: :feature
+component: Storage
+release: 
+reporter: Matias Eyzaguirre <matias@fortlogic.net>
+status: :unstarted
+disposition: 
+creation_time: 2014-10-16 07:03:55.090557 Z
+references: []
+
+id: 7f0695c05960f998a635c23609bb5fe4148b2996
+log_events: 
+- - 2014-10-16 07:03:55.091966 Z
+  - Matias Eyzaguirre <matias@fortlogic.net>
+  - created
+  - ""
+- - 2014-10-16 07:08:08.229427 Z
+  - Matias Eyzaguirre <matias@fortlogic.net>
+  - commented
+  - |-
+    The typed racket bug this depends on can be found at
+    http://bugs.racket-lang.org/query/?cmd=view&pr=14771
+git_branch: 
+labels: []
+

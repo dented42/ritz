@@ -1,0 +1,29 @@
+--- !ditz.rubyforge.org,2008-03-06/issue 
+title: Generic UUID backing store
+desc: |-
+  Create a generic storage module that allows storing arbitrary values with UUIDs
+  that abstracts over how the values are actually stored. This way it can be made
+  to work with a filesystem based storage mechanism (like ditz), as well as
+  perhaps even an in memory store or database.
+type: :feature
+component: Storage
+release: v1.0.0
+reporter: Matias Eyzaguirre <matias@fortlogic.net>
+status: :in_progress
+disposition: 
+creation_time: 2014-10-12 23:50:18.678854 Z
+references: []
+
+id: 51b9b49ed58e239a8ac372e48d648d56e35e5249
+log_events: 
+- - 2014-10-12 23:50:18.680103 Z
+  - Matias Eyzaguirre <matias@fortlogic.net>
+  - created
+  - ""
+- - 2014-10-13 00:44:52.285158 Z
+  - Matias Eyzaguirre <matias@fortlogic.net>
+  - changed status from unstarted to in_progress
+  - Beginning work on UUID Backing store.
+git_branch: 
+labels: []
+
