@@ -18,6 +18,13 @@ log_events:
   - Matias Eyzaguirre <matias@fortlogic.net>
   - created
   - ""
+- - 2014-10-24 03:59:47.404113 Z
+  - Matias Eyzaguirre <matias@fortlogic.net>
+  - commented
+  - |-
+    This should expose files as several possible types. The main store should map
+    uuids to ports, but it's important that they also be mapped to text, byte
+    strings, and possibly values that get round trips for half price on the reader.
 git_branch: 
 labels: []
 

@@ -14,6 +14,7 @@
          make-uuid-box
          fetch-uuid-box
          uuid-unbox
+         uuid-unbox/refresh
          set-uuid-box!)
 
 (require/typed libuuid

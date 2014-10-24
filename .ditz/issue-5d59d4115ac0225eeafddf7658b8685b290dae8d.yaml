@@ -1,0 +1,23 @@
+--- !ditz.rubyforge.org,2008-03-06/issue 
+title: Text backing store
+desc: |-
+  Make uuid-store-adaptors that translate common racket types like strings, lists,
+  vectors, hash tables, sets, and whatnot into text.
+type: :feature
+component: Storage
+release: v1.0.0
+reporter: Matias Eyzaguirre <matias@fortlogic.net>
+status: :unstarted
+disposition: 
+creation_time: 2014-10-24 03:57:03.781977 Z
+references: []
+
+id: 5d59d4115ac0225eeafddf7658b8685b290dae8d
+log_events: 
+- - 2014-10-24 03:57:03.783433 Z
+  - Matias Eyzaguirre <matias@fortlogic.net>
+  - created
+  - ""
+git_branch: 
+labels: []
+
