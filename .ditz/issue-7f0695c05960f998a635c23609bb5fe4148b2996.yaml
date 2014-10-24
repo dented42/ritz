@@ -30,6 +30,16 @@ log_events:
   - |-
     The typed racket bug this depends on can be found at
     http://bugs.racket-lang.org/query/?cmd=view&pr=14771
+- - 2014-10-24 05:31:11.288805 Z
+  - Matias Eyzaguirre <matias@fortlogic.net>
+  - commented
+  - |-
+    Actually currently UUID boxes use ephemerons where the key and value are the
+    same, which functions the same way that weak boxes do. Custodians were
+    abandoned for being complicated, when a store is collected it's custodian's
+    boxes are given to the parent custodian, which is not what one would expect
+    when a store is deallocated. Ephemerons will be used until typed racket supports
+    weak boxes.
 git_branch: 
 labels: []
 
