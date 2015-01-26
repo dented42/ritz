@@ -22,11 +22,11 @@
                     (λ: ([uuid : String] [value : A])
                       (uuid-store-write! store uuid value))))
 
-(define-type (UUID-Boxof A) (uuid-box A))
-
 (: make-optional (∀ (A) (→ A (Option A))))
 (define (make-optional thing)
   thing)
+
+(define-type (UUID-Boxof A) (uuid-box A))
 
 (struct: (A) uuid-box ([uuid : String]
                        [store : (baked-uuid-store A)]

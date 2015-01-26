@@ -1,15 +1,15 @@
 #lang racket
 
+(provide make-simple-store)
+
 (require libuuid
          rackunit
          "../uuid-storage.rkt")
 
+(define (make-simple-store (store (make-hash)))
+    (make-uuid-store store hash-has-key? hash-ref hash-set!))
 
 (module+ test
-  
-  (define (make-simple-store (store (make-hash)))
-    (make-uuid-store store hash-has-key? hash-ref hash-set!))
-  
   (test-case "uuid-store-contains?"
     (let* ([uuid0 (uuid-generate)]
            [uuid1 (uuid-generate)]
